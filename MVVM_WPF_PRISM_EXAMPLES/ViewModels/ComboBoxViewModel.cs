@@ -1,6 +1,5 @@
 ﻿using MVVM_WPF_PRISM_EXAMPLES.Models;
 using Prism.Commands;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 

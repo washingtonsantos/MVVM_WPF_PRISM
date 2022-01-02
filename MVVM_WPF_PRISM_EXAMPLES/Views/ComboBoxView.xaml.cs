@@ -5,6 +5,7 @@ namespace MVVM_WPF_PRISM_EXAMPLES.Views
 {
     /// <summary>
     /// Interaction logic for ComboBoxView.xaml
+    /// Exemplo COMBOBOX-MULTISELECT
     /// </summary>
     public partial class ComboBoxView : UserControl
     {
